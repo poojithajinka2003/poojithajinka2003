@@ -36,11 +36,11 @@ I'm thrilled to have completed this certification, enhancing my productivity and
 
 ### 📊 My GitHub Activity  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojithajinka2003&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=poojithajinka2003&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=poojithajinka2003&theme=github" alt="Activity Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poojithajinka2003&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
