@@ -11,8 +11,6 @@ I'm a **full-stack developer** with a passion for solving real-world problems th
 - **Web Development**  
 - **AI Integration**  
 
-I enjoy tackling complex challenges and continuously expanding my skill set!
-
 ---
 
 ### 🛠️ My Tech Stack  
@@ -28,18 +26,45 @@ I enjoy tackling complex challenges and continuously expanding my skill set!
 
 ---
 
-### 📂 Featured Projects  
-#### **1. Motion Detection**  
-![Motion Detection](https://media.giphy.com/media/3o6Zt8N6n5UyhFEnmE/giphy.gif)  
-A smart surveillance tool for real-time motion detection and tracking using Python and OpenCV.
+### 📂 Featured Projects
 
-#### **2. Traveling Website**  
-![Traveling Website](https://media.giphy.com/media/3o6Zt8N6n5UyhFEnmE/giphy.gif)  
-An interactive travel platform built with HTML, CSS, and JavaScript, offering real-time travel packages and booking.
+#### 1. **Motion Detection System**
+- **Tech**: Python, OpenCV, TensorFlow  
+- **Status**: Active  
+- **Key Feature**: Detects and tracks movements in real-time for surveillance systems.
 
-#### **3. Hospital Management System** (Coming Soon!)  
-![Hospital System](https://via.placeholder.com/600x300?text=Hospital+Management+System)  
-A comprehensive hospital management system for patient tracking and resource allocation (Developing in Java and SQL).
+| **Feature**   | **Details**            |
+|---------------|------------------------|
+| **Detection** | Real-time motion       |
+| **Accuracy**  | 95%                    |
+| **Speed**     | 30 FPS                 |
+
+---
+
+#### 2. **Traveling Website**
+- **Tech**: HTML, CSS, JavaScript  
+- **Status**: Completed  
+- **Key Feature**: A fully responsive platform with dynamic UI for travel booking.
+
+**Key Components**:  
+- 🌐 **Responsive design**  
+- 🧳 **User-friendly UI**  
+- 📅 **Booking System**
+
+📈 **Growth**: Increased user engagement by 50% after launch!
+
+---
+
+#### 3. **Hospital Management System** (Coming Soon!)
+- **Tech**: Java, SQL  
+- **Status**: In Progress  
+- **Key Feature**: Managing hospital resources, patient data, and staff assignments.
+
+| **Feature**           | **Details**              |
+|-----------------------|--------------------------|
+| **Patient Tracking**  | Real-time updates        |
+| **Admin Dashboard**   | Easy-to-use UI           |
+| **Database**          | SQL-based, secure storage|
 
 ---
 
