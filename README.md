@@ -1,19 +1,19 @@
 <h1 align="center">Hello, I'm Poojitha Jinka! 👩‍💻</h1>
 <p align="center">
-  <i>Innovative Developer | Open-Source Contributor | Lifelong Learner</i>
+  <i>Innovative Developer | Problem Solver | Lifelong Learner</i>
 </p>
 
 ---
 
 ### 🚀 About Me  
-I'm a **full-stack developer** with a passion for solving real-world problems through software. I specialize in:
+I'm a **full-stack developer** focused on creating software that solves real-world problems. Currently exploring:
 - **Machine Learning**  
-- **Web Development**  
-- **AI Integration**  
+- **AI-powered solutions**  
+- **Web Development**
 
 ---
 
-### 🛠️ My Tech Stack  
+### 🛠️ Tech Stack  
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -26,45 +26,23 @@ I'm a **full-stack developer** with a passion for solving real-world problems th
 
 ---
 
-### 📂 Featured Projects
+### 📂 Featured Projects  
 
-#### 1. **Motion Detection System**
-- **Tech**: Python, OpenCV, TensorFlow  
-- **Status**: Active  
-- **Key Feature**: Detects and tracks movements in real-time for surveillance systems.
-
-| **Feature**   | **Details**            |
-|---------------|------------------------|
-| **Detection** | Real-time motion       |
-| **Accuracy**  | 95%                    |
-| **Speed**     | 30 FPS                 |
+#### **[Motion Detection System](https://github.com/poojithajinka2003/Motion-Detection)**  
+- **Tech**: Python, OpenCV  
+- **Feature**: Real-time motion tracking for security systems.
 
 ---
 
-#### 2. **Traveling Website**
+#### **[Traveling Website](https://github.com/poojithajinka2003/Traveling-Website)**  
 - **Tech**: HTML, CSS, JavaScript  
-- **Status**: Completed  
-- **Key Feature**: A fully responsive platform with dynamic UI for travel booking.
-
-**Key Components**:  
-- 🌐 **Responsive design**  
-- 🧳 **User-friendly UI**  
-- 📅 **Booking System**
-
-📈 **Growth**: Increased user engagement by 50% after launch!
+- **Feature**: A responsive travel booking platform.
 
 ---
 
-#### 3. **Hospital Management System** (Coming Soon!)
+#### **[Hospital Management System](https://github.com/poojithajinka2003/Hospital-Management-System)** (Coming Soon!)  
 - **Tech**: Java, SQL  
-- **Status**: In Progress  
-- **Key Feature**: Managing hospital resources, patient data, and staff assignments.
-
-| **Feature**           | **Details**              |
-|-----------------------|--------------------------|
-| **Patient Tracking**  | Real-time updates        |
-| **Admin Dashboard**   | Easy-to-use UI           |
-| **Database**          | SQL-based, secure storage|
+- **Feature**: A comprehensive system for managing hospital resources and patients.
 
 ---
 
