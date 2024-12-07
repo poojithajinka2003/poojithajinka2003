@@ -34,18 +34,21 @@ I'm thrilled to have completed this certification, enhancing my productivity and
 
 ---
 
+### 📊 My GitHub Activity  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojithajinka2003&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=poojithajinka2003&theme=react-dark" alt="Activity Graph"/>
+</p>
+
+---
+
 ### 📂 Featured Projects  
 1. [**Motion Detection**](#) - Python-based surveillance tool with advanced tracking.  
 2. [**Traveling Website**](#) - Interactive and dynamic travel platform.  
 3. **Hospital Management System** (Coming Soon!)
-
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poojithajinka2003&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poojithajinka2003&theme=radical" alt="GitHub Streak" width="48%"/>
-</p>
 
 ---
 
