@@ -11,19 +11,16 @@ Hi! I'm **Poojitha Jinka**, a **web enthusiast** with a creative spark for build
 ---
 
 ### 📂 Featured Projects  
-
-#### **[Motion Detection System](https://github.com/poojithajinka2003/Motion-Detection)**  
-A real-time motion tracking system.
-
----
-
-#### **[Traveling Website](https://github.com/poojithajinka2003/Traveling-Website)**  
-A dynamic and responsive platform for travelers.
+- [**Motion Detection System**](https://github.com/poojithajinka2003/Motion-Detection)
+- [**Traveling Website**](https://github.com/poojithajinka2003/Traveling-Website)
+- [**Hospital Management System**](https://github.com/poojithajinka2003/Hospital-Management-System) (Coming Soon!)
 
 ---
 
-#### **[Hospital Management System](https://github.com/poojithajinka2003/Hospital-Management-System)** (Coming Soon!)  
-A system for managing hospital resources and patients.
+### 📈 My Contribution Activity  
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=poojithajinka2003&bg_color=000000&color=ffffff&line=00ff00&point=00ff00&area=true&hide_border=true" alt="Activity Graph"/>
+</p>
 
 ---
 
