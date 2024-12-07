@@ -12,7 +12,7 @@ Hi! I'm **Poojitha Jinka**, a **web enthusiast** with a creative spark for build
 
 ### 📂 Featured Projects  
 - [**Motion Detection System**](https://github.com/poojithajinka2003/Motion-Detection)
-- [**Traveling Website**](https://github.com/poojithajinka2003/Traveling-Website)
+- [**Traveling Website**](https://github.com/poojithajinka2003/Travelling_Website)
 - [**Hospital Management System**](https://github.com/poojithajinka2003/Hospital-Management-System) (Coming Soon!)
 
 ---
