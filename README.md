@@ -19,8 +19,9 @@ Hi! I'm **Poojitha Jinka**, a **web enthusiast** with a creative spark for build
 
 ### 📈 My Contribution Activity  
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=poojithajinka2003&bg_color=000000&color=ffffff&line=00ff00&point=00ff00&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=poojithajinka2003&theme=gruvbox" alt="Trophy"/>
 </p>
+
 
 ---
 
