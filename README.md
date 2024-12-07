@@ -17,11 +17,10 @@ Hi! I'm **Poojitha Jinka**, a **web enthusiast** with a creative spark for build
 
 ---
 
-### 📈 My Contribution Activity  
+### 📊 My Skills Over Time  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=poojithajinka2003&theme=gruvbox" alt="Trophy"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c" alt="Skills Development Over Time"/>
 </p>
-
 
 ---
 
