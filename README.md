@@ -17,6 +17,14 @@ Hi! I'm **Poojitha Jinka**, a **web enthusiast** with a creative spark for build
 
 ---
 
+### ⌨️ Typing Skill  
+I’ve successfully completed a typing certification with **Ratatype**:  
+- **Typing Speed**: 59 WPM  
+- **Accuracy**: 99%  
+These skills help me boost my productivity and enhance my workflow, especially while working on coding tasks.
+
+---
+
 ### 📊 My Skills Over Time  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c" alt="Skills Development Over Time"/>
@@ -29,7 +37,7 @@ Hi! I'm **Poojitha Jinka**, a **web enthusiast** with a creative spark for build
   <a href="https://linkedin.com/in/poojithajinka" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:poojitha@example.com" target="_blank">
+  <a href="mailto:jinkasujatha77998@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
